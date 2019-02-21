@@ -23,8 +23,9 @@ You must provide your own API key in order to build the app. Generate you API_KE
 
 ## Screenshots
 
-![](screenshots/pop2.png)
-
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
 ## Used libraries:
 
 * [Picasso](http://square.github.io/picasso/)
