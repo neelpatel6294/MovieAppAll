@@ -30,7 +30,7 @@ public class NetworkUtils {
 
     final static String API_KEY = "api_key";
 
-    final static String api_key = "3981224234123132ebc5d74a35f65";
+    final static String api_key = "Your API KEY";
 
 
     final static String LANGUAGE = "language";
