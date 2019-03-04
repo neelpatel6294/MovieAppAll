@@ -19,7 +19,7 @@ With the app, you can:
 ## How to Work with the Source
 
 This app uses [The Movie Database](https://www.themoviedb.org/documentation/api) API to retrieve movies.
-You must provide your own API key in order to build the app. Generate you API_KEY and replace it in ApiClient.java class
+You must provide your own API key in order to build the app. Generate you API_KEY and replace it in NetworkUtils.java class
 
 ## Screenshots
 
